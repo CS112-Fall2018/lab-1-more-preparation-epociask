@@ -1,3 +1,4 @@
+//For my program, i found it most effecient to utilize a Float array and loop through it to perform the calculations. 
 class Arithmetic{
   public static void main(String[] args) {
 
