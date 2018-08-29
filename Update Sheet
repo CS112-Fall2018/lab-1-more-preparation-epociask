@@ -1,0 +1,9 @@
+//1.  Possible intger values would be between -2,048 to 2,047
+
+//2.
+//(i) The number of pages in a book is any integer starting from 0; also most books aren't longer than a 1,000 pages; so therefore int pageNumbers;
+//(ii)The amount of atoms located in a book would require taking the molar mass and utulizing avogrados number which involves many exponents, dependent upon the accuracy it'd take the form double or float; double atomAmountBook;
+//(iii) well triangle lenghts are typically measured in inches or cm, which usually round to one or two decimals, so float triangeLength;
+//(iv) A name is typically longer than a single charcter, so it'd likely be a string; String ethen;
+//(v) Whether or not a nucleus has decayed has two possiblities; so boolean nucleus;  if decayed then nucleus = true; if not decayed than nucleus = false;
+//(vi) Well probability is typically measured in percentage which can take many decimal places; so dependent upon the accuracy; it could be float or double; double decayProbability  
